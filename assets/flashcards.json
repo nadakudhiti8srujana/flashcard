@@ -1,0 +1,173 @@
+[
+  {
+    "id": "gk_deck_01",
+    "name": "General Knowledge",
+    "cards": [
+      { "id": "gk01", "question": "What is the capital of France?", "answer": "Paris" },
+      { "id": "gk02", "question": "What is the largest planet in our solar system?", "answer": "Jupiter" },
+      { "id": "gk03", "question": "Who wrote 'Romeo and Juliet'?", "answer": "William Shakespeare" },
+      { "id": "gk04", "question": "What is the smallest country in the world?", "answer": "Vatican City" },
+      { "id": "gk05", "question": "How many continents are there?", "answer": "7" },
+      { "id": "gk06", "question": "What is the currency of Japan?", "answer": "Japanese Yen" },
+      { "id": "gk07", "question": "Who painted the Mona Lisa?", "answer": "Leonardo da Vinci" },
+      { "id": "gk08", "question": "Which planet is known as the Red Planet?", "answer": "Mars" },
+      { "id": "gk09", "question": "What is the main ingredient in guacamole?", "answer": "Avocado" },
+      { "id": "gk10", "question": "How many states are in the United States of America?", "answer": "50" },
+      { "id": "gk11", "question": "What is the largest mammal in the world?", "answer": "The Blue Whale" },
+      { "id": "gk12", "question": "Which country is famous for its tulips and windmills?", "answer": "The Netherlands" },
+      { "id": "gk13", "question": "What is the hardest natural substance on Earth?", "answer": "Diamond" },
+      { "id": "gk14", "question": "In which city were the first modern Olympic Games held?", "answer": "Athens, Greece" },
+      { "id": "gk15", "question": "What do you call a group of lions?", "answer": "A pride" }
+    ]
+  },
+  {
+    "id": "flutter_deck_01",
+    "name": "Flutter & Dart",
+    "cards": [
+      { "id": "fb01", "question": "What language is Flutter written in?", "answer": "Dart" },
+      { "id": "fb02", "question": "What is the main building block of a Flutter UI?", "answer": "A Widget" },
+      { "id": "fb03", "question": "What command checks your Flutter installation?", "answer": "flutter doctor" },
+      { "id": "fb04", "question": "What file is used to manage project dependencies?", "answer": "pubspec.yaml" },
+      { "id": "fb05", "question": "Is Flutter a language or a framework?", "answer": "A Framework (UI Toolkit)" },
+      { "id": "fb06", "question": "What widget would you use to place items in a vertical list?", "answer": "Column or ListView" },
+      { "id": "fb07", "question": "What is 'hot reload'?", "answer": "A feature to quickly see UI changes without restarting the app." },
+      { "id": "fb08", "question": "What does the 'const' keyword do in Dart?", "answer": "Creates a compile-time constant variable." },
+      { "id": "fb09", "question": "Which widget is used to handle user taps?", "answer": "GestureDetector or InkWell" },
+      { "id": "fb10", "question": "What is the difference between a Stateless and a Stateful widget?", "answer": "Stateful widgets can change their state during the lifetime of the widget." }
+    ]
+  },
+  {
+    "id": "science_deck_01",
+    "name": "Science Facts",
+    "cards": [
+      { "id": "sc01", "question": "What is the chemical symbol for water?", "answer": "H2O" },
+      { "id": "sc02", "question": "What force pulls objects toward the center of the Earth?", "answer": "Gravity" },
+      { "id": "sc03", "question": "What is the powerhouse of the cell?", "answer": "Mitochondria" },
+      { "id": "sc04", "question": "What is the hardest natural substance on Earth?", "answer": "Diamond" },
+      { "id": "sc05", "question": "How many bones are in the adult human body?", "answer": "206" },
+      { "id": "sc06", "question": "What is the boiling point of water in Celsius?", "answer": "100°C" },
+      { "id": "sc07", "question": "What gas do plants absorb from the atmosphere?", "answer": "Carbon Dioxide" },
+      { "id": "sc08", "question": "What is the name of our galaxy?", "answer": "The Milky Way" },
+      { "id": "sc09", "question": "Does sound travel faster in air or water?", "answer": "Water" },
+      { "id": "sc10", "question": "What is the study of mushrooms called?", "answer": "Mycology" },
+      { "id": "sc11", "question": "What is the Earth's largest ocean?", "answer": "The Pacific Ocean" },
+      { "id": "sc12", "question": "What is the chemical symbol for gold?", "answer": "Au" },
+      { "id": "sc13", "question": "What is the process by which plants make their food called?", "answer": "Photosynthesis" },
+      { "id": "sc14", "question": "How many planets are in our solar system?", "answer": "8" },
+      { "id": "sc15", "question": "What is the speed of light?", "answer": "Approximately 299,792 kilometers per second" }
+    ]
+  },
+  {
+    "id": "history_deck_01",
+    "name": "World History",
+    "cards": [
+      { "id": "wh01", "question": "In which year did the Titanic sink?", "answer": "1912" },
+      { "id": "wh02", "question": "Who was the first person to walk on the moon?", "answer": "Neil Armstrong" },
+      { "id": "wh03", "question": "The ancient Egyptians are famous for building what structures?", "answer": "Pyramids" },
+      { "id": "wh04", "question": "What was the Renaissance?", "answer": "A period of 'rebirth' in arts and science in Europe" },
+      { "id": "wh05", "question": "Who invented the light bulb?", "answer": "Thomas Edison" },
+      { "id": "wh06", "question": "Which war was fought between the north and south regions of the United States?", "answer": "The Civil War" },
+      { "id": "wh07", "question": "Who was the first female Prime Minister of the United Kingdom?", "answer": "Margaret Thatcher" },
+      { "id": "wh08", "question": "The Great Wall of China was built to protect against which group of people?", "answer": "The Mongols" },
+      { "id": "wh09", "question": "Who discovered America in 1492?", "answer": "Christopher Columbus" },
+      { "id": "wh10", "question": "In which country did the Industrial Revolution begin?", "answer": "Great Britain" }
+    ]
+  },
+  {
+    "id": "geo_deck_01",
+    "name": "Geography",
+    "cards": [
+      { "id": "geo01", "question": "What is the longest river in the world?", "answer": "The Nile" },
+      { "id": "geo02", "question": "What is the largest desert in the world?", "answer": "Antarctic Polar Desert" },
+      { "id": "geo03", "question": "What is the capital of Japan?", "answer": "Tokyo" },
+      { "id": "geo04", "question": "Which country is known as the Land of the Rising Sun?", "answer": "Japan" },
+      { "id": "geo05", "question": "What is the highest mountain in the world?", "answer": "Mount Everest" },
+      { "id": "geo06", "question": "What is the capital of Australia?", "answer": "Canberra" },
+      { "id": "geo07", "question": "Which ocean is the largest?", "answer": "Pacific Ocean" },
+      { "id": "geo08", "question": "What is the most populous country in the world?", "answer": "India" },
+      { "id": "geo09", "question": "The Great Barrier Reef is located off the coast of which country?", "answer": "Australia" },
+      { "id": "geo10", "question": "What is the capital of Canada?", "answer": "Ottawa" }
+    ]
+  },
+  {
+    "id": "cs_deck_01",
+    "name": "Computer Science",
+    "cards": [
+      { "id": "cs01", "question": "What does CPU stand for?", "answer": "Central Processing Unit" },
+      { "id": "cs02", "question": "What does RAM stand for?", "answer": "Random Access Memory" },
+      { "id": "cs03", "question": "What is the main function of an Operating System (OS)?", "answer": "Manage computer hardware and software resources" },
+      { "id": "cs04", "question": "What does HTML stand for?", "answer": "HyperText Markup Language" },
+      { "id": "cs05", "question": "What is a 'bug' in computer programming?", "answer": "An error, flaw or fault in a computer program" },
+      { "id": "cs06", "question": "What do you call the rules that define how data is transmitted over a network?", "answer": "A protocol (e.g., HTTP, TCP/IP)" },
+      { "id": "cs07", "question": "What is a 'firewall' in computer security?", "answer": "A network security system that monitors and controls incoming and outgoing network traffic." },
+      { "id": "cs08", "question": "What is the binary number system based on?", "answer": "Base 2 (using only 0s and 1s)" },
+      { "id": "cs09", "question": "What does 'URL' stand for?", "answer": "Uniform Resource Locator" },
+      { "id": "cs10", "question": "Who is considered the father of the computer?", "answer": "Charles Babbage" }
+    ]
+  },
+  {
+    "id": "lit_deck_01",
+    "name": "Literature",
+    "cards": [
+      { "id": "lit01", "question": "Who wrote 'To Kill a Mockingbird'?", "answer": "Harper Lee" },
+      { "id": "lit02", "question": "In 'The Great Gatsby', who is the narrator?", "answer": "Nick Carraway" },
+      { "id": "lit03", "question": "What is the name of the wizarding school in Harry Potter?", "answer": "Hogwarts" },
+      { "id": "lit04", "question": "Who is the author of 'Pride and Prejudice'?", "answer": "Jane Austen" },
+      { "id": "lit05", "question": "What is the name of the ship in 'Moby Dick'?", "answer": "The Pequod" },
+      { "id": "lit06", "question": "Who wrote the play 'Hamlet'?", "answer": "William Shakespeare" },
+      { "id": "lit07", "question": "In '1984', what is the name of the totalitarian leader?", "answer": "Big Brother" },
+      { "id": "lit08", "question": "Who wrote 'The Catcher in the Rye'?", "answer": "J. D. Salinger" },
+      { "id": "lit09", "question": "What is the name of the main hobbit in 'The Lord of the Rings'?", "answer": "Frodo Baggins" },
+      { "id": "lit10", "question": "Which novel begins with 'It was the best of times, it was the worst of times'?", "answer": "A Tale of Two Cities" }
+    ]
+  },
+  {
+    "id": "movie_deck_01",
+    "name": "Movies",
+    "cards": [
+      { "id": "mov01", "question": "Who directed the movie 'Jaws'?", "answer": "Steven Spielberg" },
+      { "id": "mov02", "question": "What is the name of the fictional African country in 'Black Panther'?", "answer": "Wakanda" },
+      { "id": "mov03", "question": "In 'The Matrix', does Neo take the blue pill or the red pill?", "answer": "The red pill" },
+      { "id": "mov04", "question": "Which movie won the first-ever Academy Award for Best Picture?", "answer": "Wings (1927)" },
+      { "id": "mov05", "question": "What is the famous quote from 'The Godfather'?", "answer": "I'm gonna make him an offer he can't refuse." },
+      { "id": "mov06", "question": "What is the name of the friendly robot in 'Star Wars'?", "answer": "R2-D2" },
+      { "id": "mov07", "question": "Who played Jack Dawson in the movie 'Titanic'?", "answer": "Leonardo DiCaprio" },
+      { "id": "mov08", "question": "What is the highest-grossing film of all time (unadjusted for inflation)?", "answer": "Avatar (2009)" },
+      { "id": "mov09", "question": "In the movie 'Forrest Gump', life is like a... what?", "answer": "Box of chocolates" },
+      { "id": "mov10", "question": "Who is the director of the 'Lord of the Rings' trilogy?", "answer": "Peter Jackson" }
+    ]
+  },
+  {
+    "id": "myth_deck_01",
+    "name": "Mythology",
+    "cards": [
+      { "id": "myth01", "question": "In Greek mythology, who is the king of the gods?", "answer": "Zeus" },
+      { "id": "myth02", "question": "What creature in Greek mythology was half man and half bull?", "answer": "The Minotaur" },
+      { "id": "myth03", "question": "Who is the Norse god of thunder?", "answer": "Thor" },
+      { "id": "myth04", "question": "In Egyptian mythology, who is the god of the afterlife?", "answer": "Anubis" },
+      { "id": "myth05", "question": "What was the name of the hero who sailed with the Argonauts?", "answer": "Jason" },
+      { "id": "myth06", "question": "Who turned people to stone by looking at them?", "answer": "Medusa" },
+      { "id": "myth07", "question": "What is the Roman name for the Greek god Zeus?", "answer": "Jupiter" },
+      { "id": "myth08", "question": "What is the name of the three-headed dog that guards the underworld?", "answer": "Cerberus" },
+      { "id": "myth09", "question": "Who is the Greek goddess of wisdom and warfare?", "answer": "Athena" },
+      { "id": "myth10", "question": "In Roman mythology, who are the twin brothers who founded Rome?", "answer": "Romulus and Remus" }
+    ]
+  },
+  {
+    "id": "art_deck_01",
+    "name": "Art History",
+    "cards": [
+      { "id": "art01", "question": "Who painted the ceiling of the Sistine Chapel?", "answer": "Michelangelo" },
+      { "id": "art02", "question": "Which art movement is characterized by dream-like, bizarre scenes?", "answer": "Surrealism" },
+      { "id": "art03", "question": "Who painted 'The Starry Night'?", "answer": "Vincent van Gogh" },
+      { "id": "art04", "question": "What is the name of the famous sculpture of a man thinking, created by Auguste Rodin?", "answer": "The Thinker" },
+      { "id": "art05", "question": "Which Spanish artist is famous for co-founding the Cubist movement?", "answer": "Pablo Picasso" },
+      { "id": "art06", "question": "What is the name of the artistic period that followed the Renaissance?", "answer": "Baroque" },
+      { "id": "art07", "question": "Who created the famous 'Campbell's Soup Cans' artwork?", "answer": "Andy Warhol" },
+      { "id": "art08", "question": "The 'Impressionist' art movement originated in which country?", "answer": "France" },
+      { "id": "art09", "question": "What is the name of Leonardo da Vinci's famous painting of a woman with an enigmatic smile?", "answer": "The Mona Lisa" },
+      { "id": "art10", "question": "Who is known for his large-scale 'drip' paintings?", "answer": "Jackson Pollock" }
+    ]
+  }
+]
+
